@@ -1,0 +1,15 @@
+{
+    "profile":"Profile",
+    "settings": "Settings",
+    "connectedTitle":"You are connected",
+    "connectedSubtitle": "Subscriptions, autopayments and services you have subscribed to",
+    "tariffsTitile": "Tariffs and limits",
+    "tariffsSubtitile":"For transactions in Sberbank Online",
+    "changeDailyLimitTitile":"Change the daily limit",
+    "changeDailyLimitSubtitile":"For payments and transfers",
+    "transferTitle":"Transfers without commission",
+    "transferSubtitle":"Show the balance this month",
+    "limits":"Information about tariffs limits",
+    "intrestingsTitle":"Interests",
+    "intrestingsSubtitle":"We select stories and suggestions on topics that you like."
+}
