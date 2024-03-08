@@ -1,0 +1,15 @@
+{
+    "profile":"Профиль",
+    "settings":"Настройки",
+    "connectedTitle":"У вас подключено",
+    "connectedSubtitle":"Подписки, автоплатежи и сервисы на которые вы подписались",
+    "tariffsTitile":"Тарифы и лимиты",
+    "tariffsSubtitile":"Для операций в Сбербанк Онлайн",
+    "changeDailyLimitTitile":"Изменить суточный лимит",
+    "changeDailyLimitSubtitile":"На платежи и переводы",
+    "transferTitle":"Переводы без комиссии",
+    "transferSubtitle":"Показать остаток в этом месяце",
+    "limits":"Информация о тарифахи лимитах",
+    "intrestingsTitle":"Интересы",
+    "intrestingsSubtitle":"Мы подбираем истории и предложения по темам, которые вам нравятся"
+}
